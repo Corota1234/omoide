@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omoide-remaster.corota-ai-lab.com/sitemap.xml
